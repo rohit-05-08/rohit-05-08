@@ -23,5 +23,5 @@
 - Build practical programming projects
 
 ## Connect With Me
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: [www.linkedin.com/in/rohit-bhatt-1689b044a]
 
