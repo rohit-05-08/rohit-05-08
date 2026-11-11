@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**rohit-05-08/rohit-05-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [ROHIT BHATT] 👋
 
-Here are some ideas to get you started:
+🎓 First-Year B.Tech CSE Student at Lovely Professional University (LPU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 💻 Learning Python Programming
+- 🌐 Exploring HTML and CSS
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📚 Improving my problem-solving and programming skills
+- 🚀 Working towards becoming an AI/ML Engineer
+
+## Technical Skills
+- Python (Intermediate)
+- HTML (Basic)
+- CSS (Basic)
+
+## Current Goals
+- Strengthen Python programming
+- Learn Data Structures and Algorithms
+- Explore Machine Learning
+- Build practical programming projects
+
+## Connect With Me
+- LinkedIn: [Add your LinkedIn URL here]
+
